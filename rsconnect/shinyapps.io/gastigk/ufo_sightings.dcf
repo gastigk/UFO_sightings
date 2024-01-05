@@ -1,0 +1,10 @@
+name: ufo_sightings
+title:
+username: gastigk
+account: gastigk
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10870573
+bundleId: 8113525
+url: https://gastigk.shinyapps.io/ufo_sightings/
+version: 1
